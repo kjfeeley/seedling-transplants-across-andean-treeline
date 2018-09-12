@@ -1,2 +1,11 @@
 # seedling-transplants-across-andean-treeline
- Data from Rehm, EM &amp;amp; Feeley KJ. 2016. Seedling transplants reveal species-specific responses of high-elevation tropical treeline trees to climate change. Oecologia. 181(4): 1233-1242.
+Data from Rehm, EM &amp;amp; Feeley KJ. 2016. Seedling transplants reveal species-specific responses of high-elevation tropical treeline trees to climate change. Oecologia. 181(4): 1233-1242.
+ 
+ 
+
+Rehm, EM and Feeley KJ. 2016. Seedling transplants reveal species-specific responses of high-elevation tropical treeline trees to climate change. Oecologia. 181(4): 1233-1242.
+
+The elevations at which tropical treelines occur are believed to represent the point where low mean temperatures limit the growth of upright woody trees. Consequently, tropical treelines are predicted to shift to higher elevations with global warming. However, treelines throughout the tropics have remained stationary despite increasing global mean temperatures. The goal of the study reported here was to build a more comprehensive understanding of the effects of mean temperature, low-temperature extremes, shading, and their interactions on seedling survival at tropical treelines. We conducted a seedling transplant study using three dominant canopy-forming treeline species in the southern tropical Andes. We found species-specific differences and contrasting responses in seedling survival to changes in mean temperature. The most abundant naturally occurring species at the seedling stage outside the treeline, Weinmannia fagaroides, showed a negative relationship between the survival of transplanted seedlings and mean temperature, the opposite of a priori expectations. Conversely, Clethra cuneata showed increased survival at higher mean temperatures, but survival also increased with higher absolute low temperatures and the presence of shade. Finally, the survival of Gynoxys nitida seedlings was insensitive to temperature but increased under shade. These findings show that multiple factors can determine the upper distributional limit of species forming the current tropical treeline. As such, predictions of future local and regional tropical treeline shifts may need to consider several factors beyond changes in mean temperature. If the treeline remains stationary and cloud forests are unable to expand into higher elevations, there may be severe species loss in this biodiversity hotspot.
+
+
+
